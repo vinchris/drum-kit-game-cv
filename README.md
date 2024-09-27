@@ -1,2 +1,3 @@
 # drum-kit-game
-fun little javascript game 
+
+Fun little game to test out my javascript skills
