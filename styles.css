@@ -12,7 +12,8 @@ h1 {
 
 footer {
   color: #dbedf3;
-  font-family: sans-serif;
+  text-shadow: 3px 0 #da0463;
+  font-family: "Arvo", cursive;
 }
 
 .w {
